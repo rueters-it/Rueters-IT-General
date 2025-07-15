@@ -11,8 +11,9 @@
 1. [Case/CNH Portal](https://portal.cnh.com/DPLogin/Login.do?rurl=https://portal.cnh.com/pkmsvouchfor?sso_cnhind&https://portal.cnh.com/mga/sps/auth)
 2. [DIS Quantum](https://rueters.dis.us/webclient/)
 3. [DIS Support Portal](https://perseus.my.site.com/DISSupportPortal/s/login/)
-4. [JCB](https://business.jcb.com/logon_jcb/jcb/html/logon.html?samlContext=eu1_260587649550_65220276-32c5-45e8-8aec-72697a7e5f14)
-5. [Kubota](https://login.kubotalink.net/kubotalinkprod.onmicrosoft.com/B2C_1A_signup_signin_saml/samlp/sso/login)
+4. [Hyundai](https://gcrm.hd-hyundaice.com/)
+5. [JCB](https://business.jcb.com/logon_jcb/jcb/html/logon.html?samlContext=eu1_260587649550_65220276-32c5-45e8-8aec-72697a7e5f14)
+6. [Kubota](https://login.kubotalink.net/kubotalinkprod.onmicrosoft.com/B2C_1A_signup_signin_saml/samlp/sso/login)
 
 ### Admin
 1. [Paylocity](https://access.paylocity.com/?client_id=56400b1e4bab4790b909ace559dadbc1&redirect_uri=https%3a%2f%2flogin.paylocity.com%2fEscher%2fEscher_WebUI%2fMembership.IdentityManager%2fReturn&response_mode=form_post&response_type=code&scope=openid+profile+offline_access+security%3acredential%3acreate+security%3acredential%3aupdate+security%3acredential%3adelete+security%3acompanysecuritysettings%3acreate+security%3acompanysecuritysettings%3adelete&state=OpenIdConnect.AuthenticationProperties%3duTSdsKrG47B4Nn9OEj9RBzNqu6m4ii7W1QgcZjz6Bw9oZ0lz4MdDdC4yannTakWG_RZynizASkU4QLOX9J9ZIWm6fTcSS-WOsyYacwPNFe2CARbQAl9Fjm9OjXLNyP9a5Hfjn12NoEzsF8XQgJrVkmp3FOSwux-gjjyEJMWfbEy_WqWcM-kXHCa350a4vd3dHFma8ICWLCBqKlcXAHaLTUZJ815kMWai9v4DUnmDCp74a8thSyjc1KzZrB9dU0GEsR1icZr1cqj2AMTy55muYSnMvh6ZtF1q78b9uDe2GlDjqgU4wXAbGdry0kPvIMS_oG8PGdKyau_xeewEtSBpFwEASK4RI7dORuNofXXkVV49cpzyjXJnMnIcbe2YnxJJtpEmWtDfcrvt7qn-IMy8-HJO8fQ)
