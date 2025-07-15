@@ -16,4 +16,4 @@
 
 Admin
 1. [Paylocity](https://access.paylocity.com/?client_id=56400b1e4bab4790b909ace559dadbc1&redirect_uri=https%3a%2f%2flogin.paylocity.com%2fEscher%2fEscher_WebUI%2fMembership.IdentityManager%2fReturn&response_mode=form_post&response_type=code&scope=openid+profile+offline_access+security%3acredential%3acreate+security%3acredential%3aupdate+security%3acredential%3adelete+security%3acompanysecuritysettings%3acreate+security%3acompanysecuritysettings%3adelete&state=OpenIdConnect.AuthenticationProperties%3duTSdsKrG47B4Nn9OEj9RBzNqu6m4ii7W1QgcZjz6Bw9oZ0lz4MdDdC4yannTakWG_RZynizASkU4QLOX9J9ZIWm6fTcSS-WOsyYacwPNFe2CARbQAl9Fjm9OjXLNyP9a5Hfjn12NoEzsF8XQgJrVkmp3FOSwux-gjjyEJMWfbEy_WqWcM-kXHCa350a4vd3dHFma8ICWLCBqKlcXAHaLTUZJ815kMWai9v4DUnmDCp74a8thSyjc1KzZrB9dU0GEsR1icZr1cqj2AMTy55muYSnMvh6ZtF1q78b9uDe2GlDjqgU4wXAbGdry0kPvIMS_oG8PGdKyau_xeewEtSBpFwEASK4RI7dORuNofXXkVV49cpzyjXJnMnIcbe2YnxJJtpEmWtDfcrvt7qn-IMy8-HJO8fQ)
-2. 
+2. [ScanScap - Software Download](https://teams.microsoft.com/l/message/19:58ab5c8d-1ccc-4e45-8c0f-fb3065c1936c_e7320a83-71e2-41db-8715-04b8e1480759@unq.gbl.spaces/1752599676101?context=%7B%22contextType%22%3A%22chat%22%7D)
